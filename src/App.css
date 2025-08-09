@@ -1,0 +1,7 @@
+@import "tailwindcss";
+/* nothing is working */
+a{
+  color:"orange";
+  text-decoration: none;
+  list-style: none;
+}
