@@ -2,7 +2,8 @@ function Navbar() {
   // i forgot the propery name how to remove the underline in the anchor tag i have tried that in the css but not working in the tail wind.
   // well i have done it through using the app.css
   return (
-    // let's check it out. hahah
+    // still there is the problem and the problem is that. i don't know how to deal with the multiple components and how to handle it? 
+    
     <nav className="flex mr-2 justify-evenly">
       <div className="logo">
         <a href="#">
